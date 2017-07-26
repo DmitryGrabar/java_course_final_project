@@ -1,0 +1,1072 @@
+2017-06-04 01:08:05 FATAL ConfigurationManager:64 - MissingResourceException
+2017-06-04 01:10:28 FATAL ConfigurationManager:65 - MissingResourceException
+2017-06-04 01:47:09 INFO  UserDao:99 - Find all users in database
+2017-06-04 01:47:22 INFO  AjaxController:37 - POST method
+2017-06-04 01:47:22 INFO  RequestHelper:46 - setBan
+2017-06-04 01:47:22 INFO  SaveGameCommand:27 - Set ban or unban
+2017-06-04 01:47:22 INFO  UserBanLogic:29 - User banned or unbanned: fuckThis@gmail.com
+2017-06-04 01:47:23 INFO  UserDao:99 - Find all users in database
+2017-06-04 01:47:30 INFO  UserDao:99 - Find all users in database
+2017-06-04 01:59:45 INFO  ConnectionPool:137 - Closed 5 connections
+2017-06-04 02:10:47 INFO  ConnectionPool:137 - Closed 5 connections
+2017-06-04 02:11:16 INFO  ForwardCommand:21 - Forward command
+2017-06-04 02:18:02 INFO  ConnectionPool:137 - Closed 5 connections
+2017-06-04 02:28:09 INFO  ConnectionPool:137 - Closed 5 connections
+2017-06-04 02:34:58 INFO  ConnectionPool:137 - Closed 5 connections
+2017-06-04 02:36:41 INFO  ConnectionPool:137 - Closed 5 connections
+2017-06-04 02:37:06 INFO  LanguageCommand:19 - Language command
+2017-06-04 02:37:06 INFO  LanguageCommand:23 - Add to session language parameter.
+2017-06-04 02:37:12 INFO  LanguageCommand:19 - Language command
+2017-06-04 02:37:12 INFO  LanguageCommand:23 - Add to session language parameter.
+2017-06-04 02:37:15 INFO  LanguageCommand:19 - Language command
+2017-06-04 02:37:15 INFO  LanguageCommand:23 - Add to session language parameter.
+2017-06-04 02:37:22 INFO  LanguageCommand:19 - Language command
+2017-06-04 02:37:22 INFO  LanguageCommand:23 - Add to session language parameter.
+2017-06-04 02:38:26 INFO  LanguageCommand:19 - Language command
+2017-06-04 02:38:26 INFO  LanguageCommand:23 - Add to session language parameter.
+2017-06-04 02:38:38 INFO  LanguageCommand:19 - Language command
+2017-06-04 02:38:38 INFO  LanguageCommand:23 - Add to session language parameter.
+2017-06-04 02:41:00 INFO  LanguageCommand:19 - Language command
+2017-06-04 02:41:00 INFO  LanguageCommand:23 - Add to session language parameter.
+2017-06-04 02:41:10 INFO  LanguageCommand:19 - Language command
+2017-06-04 02:41:10 INFO  LanguageCommand:23 - Add to session language parameter.
+2017-06-04 02:41:22 INFO  LanguageCommand:19 - Language command
+2017-06-04 02:41:22 INFO  LanguageCommand:23 - Add to session language parameter.
+2017-06-04 02:44:29 INFO  ConnectionPool:137 - Closed 5 connections
+2017-06-04 02:44:57 INFO  LanguageCommand:19 - Language command
+2017-06-04 02:44:57 INFO  LanguageCommand:23 - Add to session language parameter.
+2017-06-04 02:45:04 INFO  LanguageCommand:19 - Language command
+2017-06-04 02:45:04 INFO  LanguageCommand:23 - Add to session language parameter.
+2017-06-04 02:45:05 INFO  LanguageCommand:19 - Language command
+2017-06-04 02:45:06 INFO  LanguageCommand:23 - Add to session language parameter.
+2017-06-04 02:45:07 INFO  LanguageCommand:19 - Language command
+2017-06-04 02:45:07 INFO  LanguageCommand:23 - Add to session language parameter.
+2017-06-04 02:52:36 INFO  ConnectionPool:137 - Closed 5 connections
+2017-06-04 02:53:10 INFO  ConnectionPool:137 - Closed 5 connections
+2017-06-04 02:56:55 INFO  LanguageCommand:19 - Language command
+2017-06-04 02:56:55 INFO  LanguageCommand:23 - Add to session language parameter.
+2017-06-04 02:58:32 INFO  LanguageCommand:19 - Language command
+2017-06-04 02:58:32 INFO  LanguageCommand:23 - Add to session language parameter.
+2017-06-04 03:00:00 INFO  ConnectionPool:137 - Closed 5 connections
+2017-06-04 03:02:40 INFO  LanguageCommand:19 - Language command
+2017-06-04 03:02:40 INFO  LanguageCommand:23 - Add to session language parameter.
+2017-06-04 03:02:42 INFO  LanguageCommand:19 - Language command
+2017-06-04 03:02:42 INFO  LanguageCommand:23 - Add to session language parameter.
+2017-06-04 03:02:44 INFO  LanguageCommand:19 - Language command
+2017-06-04 03:02:44 INFO  LanguageCommand:23 - Add to session language parameter.
+2017-06-04 03:02:45 INFO  LanguageCommand:19 - Language command
+2017-06-04 03:02:45 INFO  LanguageCommand:23 - Add to session language parameter.
+2017-06-04 03:05:32 INFO  ConnectionPool:137 - Closed 5 connections
+2017-06-04 03:05:52 INFO  LanguageCommand:19 - Language command
+2017-06-04 03:05:52 INFO  LanguageCommand:23 - Add to session language parameter.
+2017-06-04 03:06:35 INFO  LanguageCommand:19 - Language command
+2017-06-04 03:06:35 INFO  LanguageCommand:23 - Add to session language parameter.
+2017-06-04 03:06:54 INFO  UserDao:99 - Find all users in database
+2017-06-04 03:10:34 INFO  UserDao:99 - Find all users in database
+2017-06-04 03:11:17 INFO  UserDao:99 - Find all users in database
+2017-06-04 03:12:42 INFO  UserDao:99 - Find all users in database
+2017-06-04 03:12:52 INFO  UserDao:99 - Find all users in database
+2017-06-04 03:12:56 INFO  UserDao:99 - Find all users in database
+2017-06-04 03:13:26 INFO  UserDao:99 - Find all users in database
+2017-06-04 03:13:52 INFO  UserDao:99 - Find all users in database
+2017-06-04 03:14:30 INFO  UserDao:99 - Find all users in database
+2017-06-04 03:47:12 INFO  ConnectionPool:137 - Closed 5 connections
+2017-06-04 03:47:31 INFO  Controller:53 - Take command: login
+2017-06-04 03:47:46 INFO  Controller:53 - Take command: logout
+2017-06-04 03:47:55 INFO  Controller:53 - Take command: login
+2017-06-04 03:48:39 INFO  Controller:53 - Take command: login
+2017-06-04 03:49:08 INFO  Controller:53 - Take command: login
+2017-06-04 03:49:22 INFO  Controller:53 - Take command: login
+2017-06-04 03:49:42 INFO  Controller:53 - Take command: login
+2017-06-04 03:54:09 INFO  Controller:53 - Take command: login
+2017-06-04 03:54:12 INFO  Controller:53 - Take command: login
+2017-06-04 03:54:17 INFO  Controller:53 - Take command: login
+2017-06-04 03:54:21 INFO  Controller:53 - Take command: login
+2017-06-04 03:54:24 INFO  Controller:53 - Take command: login
+2017-06-04 03:54:30 INFO  Controller:53 - Take command: login
+2017-06-04 03:55:37 INFO  Controller:53 - Take command: login
+2017-06-04 03:55:44 INFO  Controller:53 - Take command: login
+2017-06-04 03:55:48 INFO  Controller:53 - Take command: login
+2017-06-04 03:55:52 INFO  Controller:53 - Take command: login
+2017-06-04 03:55:56 INFO  Controller:53 - Take command: login
+2017-06-04 03:56:34 INFO  Controller:53 - Take command: login
+2017-06-04 03:56:35 INFO  Controller:53 - Take command: login
+2017-06-04 03:57:37 INFO  Controller:53 - Take command: login
+2017-06-04 03:57:39 INFO  Controller:53 - Take command: login
+2017-06-04 03:58:43 INFO  Controller:53 - Take command: login
+2017-06-04 03:58:44 INFO  Controller:53 - Take command: login
+2017-06-04 03:58:59 INFO  Controller:53 - Take command: login
+2017-06-04 03:59:02 INFO  Controller:53 - Take command: login
+2017-06-04 04:00:22 INFO  Controller:53 - Take command: login
+2017-06-04 04:00:29 INFO  Controller:53 - Take command: login
+2017-06-04 04:01:00 INFO  Controller:53 - Take command: login
+2017-06-04 04:01:23 INFO  Controller:53 - Take command: login
+2017-06-04 04:01:27 INFO  Controller:53 - Take command: login
+2017-06-04 04:04:04 INFO  Controller:53 - Take command: login
+2017-06-04 04:04:07 INFO  Controller:53 - Take command: login
+2017-06-04 04:04:11 INFO  Controller:53 - Take command: login
+2017-06-04 04:04:14 INFO  Controller:53 - Take command: login
+2017-06-04 04:06:19 INFO  Controller:53 - Take command: login
+2017-06-04 04:06:45 INFO  Controller:53 - Take command: login
+2017-06-04 04:07:01 INFO  Controller:53 - Take command: login
+2017-06-04 04:08:24 INFO  Controller:53 - Take command: login
+2017-06-04 04:08:52 INFO  Controller:53 - Take command: login
+2017-06-04 04:09:40 INFO  Controller:53 - Take command: login
+2017-06-04 04:11:10 INFO  Controller:53 - Take command: login
+2017-06-04 04:11:14 INFO  Controller:53 - Take command: login
+2017-06-04 04:11:26 INFO  Controller:53 - Take command: login
+2017-06-04 04:11:28 INFO  Controller:53 - Take command: login
+2017-06-04 04:11:30 INFO  Controller:53 - Take command: login
+2017-06-04 04:12:28 INFO  Controller:53 - Take command: login
+2017-06-04 04:13:00 INFO  Controller:53 - Take command: login
+2017-06-04 04:13:10 INFO  Controller:53 - Take command: login
+2017-06-04 04:13:51 INFO  Controller:53 - Take command: logout
+2017-06-04 04:13:55 INFO  UserDao:99 - Find all users in database
+2017-06-04 04:13:55 INFO  Controller:53 - Take command: login
+2017-06-04 04:14:45 INFO  UserDao:99 - Find all users in database
+2017-06-04 04:14:45 INFO  Controller:53 - Take command: login
+2017-06-04 04:15:08 INFO  UserDao:99 - Find all users in database
+2017-06-04 04:15:08 INFO  Controller:53 - Take command: login
+2017-06-04 04:15:20 INFO  UserDao:99 - Find all users in database
+2017-06-04 04:15:20 INFO  Controller:53 - Take command: login
+2017-06-04 04:15:21 INFO  UserDao:99 - Find all users in database
+2017-06-04 04:15:21 INFO  Controller:53 - Take command: login
+2017-06-04 04:17:10 INFO  UserDao:99 - Find all users in database
+2017-06-04 04:17:10 INFO  Controller:53 - Take command: login
+2017-06-04 04:17:29 INFO  UserDao:99 - Find all users in database
+2017-06-04 04:17:29 INFO  Controller:53 - Take command: login
+2017-06-04 04:18:49 INFO  UserDao:99 - Find all users in database
+2017-06-04 04:18:49 INFO  Controller:53 - Take command: login
+2017-06-04 04:18:51 INFO  UserDao:99 - Find all users in database
+2017-06-04 04:18:51 INFO  Controller:53 - Take command: login
+2017-06-04 04:19:26 INFO  UserDao:99 - Find all users in database
+2017-06-04 04:19:26 INFO  Controller:53 - Take command: login
+2017-06-04 04:19:28 INFO  UserDao:99 - Find all users in database
+2017-06-04 04:19:28 INFO  Controller:53 - Take command: login
+2017-06-04 04:19:41 INFO  UserDao:99 - Find all users in database
+2017-06-04 04:19:41 INFO  Controller:53 - Take command: login
+2017-06-04 04:19:44 INFO  UserDao:99 - Find all users in database
+2017-06-04 04:19:44 INFO  Controller:53 - Take command: login
+2017-06-04 04:25:34 INFO  Controller:53 - Take command: logout
+2017-06-04 04:25:37 INFO  Controller:53 - Take command: login
+2017-06-04 04:50:26 INFO  ConnectionPool:137 - Closed 5 connections
+2017-06-04 04:50:42 INFO  LanguageCommand:19 - Language command
+2017-06-04 04:50:42 INFO  LanguageCommand:23 - Add to session language parameter.
+2017-06-04 04:50:42 INFO  Controller:53 - Take command: language
+2017-06-04 04:50:46 INFO  Controller:53 - Take command: login
+2017-06-04 04:51:13 INFO  Controller:53 - Take command: singlegame
+2017-06-04 04:51:15 INFO  Controller:53 - Take command: singlegame
+2017-06-04 04:51:17 INFO  Controller:53 - Take command: singlegame
+2017-06-04 04:51:18 INFO  Controller:53 - Take command: singlegame
+2017-06-04 04:51:19 INFO  Controller:53 - Take command: singlegame
+2017-06-04 04:51:19 INFO  Controller:53 - Take command: singlegame
+2017-06-04 04:51:51 INFO  Controller:53 - Take command: singlegame
+2017-06-04 04:51:51 INFO  Controller:53 - Take command: singlegame
+2017-06-04 04:51:52 INFO  Controller:53 - Take command: singlegame
+2017-06-04 04:51:52 INFO  Controller:53 - Take command: singlegame
+2017-06-04 04:51:53 INFO  Controller:53 - Take command: singlegame
+2017-06-04 04:52:09 INFO  Controller:53 - Take command: singlegame
+2017-06-04 04:52:10 INFO  Controller:53 - Take command: singlegame
+2017-06-04 04:52:11 INFO  Controller:53 - Take command: singlegame
+2017-06-04 04:52:12 INFO  Controller:53 - Take command: singlegame
+2017-06-04 04:54:36 INFO  Controller:53 - Take command: singlegame
+2017-06-04 04:54:39 INFO  Controller:53 - Take command: singlegame
+2017-06-04 04:56:08 INFO  ConnectionPool:137 - Closed 5 connections
+2017-06-04 04:56:26 INFO  LanguageCommand:19 - Language command
+2017-06-04 04:56:26 INFO  LanguageCommand:23 - Add to session language parameter.
+2017-06-04 04:56:26 INFO  Controller:53 - Take command: language
+2017-06-04 04:56:30 INFO  Controller:53 - Take command: login
+2017-06-04 04:56:39 INFO  Controller:53 - Take command: singlegame
+2017-06-04 04:59:52 INFO  ConnectionPool:137 - Closed 5 connections
+2017-06-04 05:00:07 INFO  Controller:53 - Take command: login
+2017-06-04 05:00:09 INFO  Controller:53 - Take command: singlegame
+2017-06-04 05:05:24 INFO  ConnectionPool:137 - Closed 5 connections
+2017-06-04 05:05:42 INFO  Controller:53 - Take command: login
+2017-06-04 05:05:44 INFO  Controller:53 - Take command: singlegame
+2017-06-04 13:27:08 INFO  Controller:53 - Take command: login
+2017-06-04 13:27:24 INFO  Controller:53 - Take command: singlegame
+2017-06-04 13:28:49 INFO  LanguageCommand:19 - Language command
+2017-06-04 13:28:49 INFO  LanguageCommand:23 - Add to session language parameter.
+2017-06-04 13:28:49 INFO  Controller:53 - Take command: language
+2017-06-04 13:28:49 INFO  ForwardCommand:21 - Forward command
+2017-06-04 13:28:49 INFO  Controller:53 - Take command: forward
+2017-06-04 13:32:10 INFO  Controller:53 - Take command: logout
+2017-06-04 13:32:38 INFO  ConnectionPool:137 - Closed 5 connections
+2017-06-04 13:34:08 INFO  ConnectionPool:137 - Closed 5 connections
+2017-06-04 13:34:30 INFO  UserDao:99 - Find all users in database
+2017-06-04 13:34:31 INFO  Controller:53 - Take command: login
+2017-06-04 13:34:37 INFO  UserDao:99 - Find all users in database
+2017-06-04 13:34:38 INFO  Controller:53 - Take command: login
+2017-06-04 13:35:00 INFO  ConnectionPool:137 - Closed 5 connections
+2017-06-04 13:35:21 INFO  UserDao:99 - Find all users in database
+2017-06-04 13:35:21 INFO  Controller:53 - Take command: login
+2017-06-04 13:39:12 INFO  ConnectionPool:137 - Closed 5 connections
+2017-06-04 13:39:53 INFO  UserDao:99 - Find all users in database
+2017-06-04 13:40:57 INFO  Controller:53 - Take command: login
+2017-06-04 13:40:58 INFO  ConnectionPool:137 - Closed 5 connections
+2017-06-04 13:41:30 INFO  UserDao:99 - Find all users in database
+2017-06-04 13:41:30 INFO  Controller:53 - Take command: login
+2017-06-04 13:42:41 INFO  UserDao:99 - Find all users in database
+2017-06-04 13:42:41 INFO  Controller:53 - Take command: login
+2017-06-04 13:42:42 INFO  UserDao:99 - Find all users in database
+2017-06-04 13:42:42 INFO  Controller:53 - Take command: login
+2017-06-04 13:42:55 INFO  UserDao:99 - Find all users in database
+2017-06-04 13:42:55 INFO  Controller:53 - Take command: login
+2017-06-04 13:42:58 INFO  UserDao:99 - Find all users in database
+2017-06-04 13:42:58 INFO  Controller:53 - Take command: login
+2017-06-04 13:43:48 INFO  UploadFileServlet:58 - SQLException in DAO layer!
+2017-06-04 13:43:58 INFO  Controller:53 - Take command: logout
+2017-06-04 13:44:05 INFO  UserDao:99 - Find all users in database
+2017-06-04 13:44:05 INFO  Controller:53 - Take command: login
+2017-06-04 13:44:09 INFO  AjaxController:37 - POST method
+2017-06-04 13:44:09 INFO  RequestHelper:46 - setBan
+2017-06-04 13:44:09 INFO  SetBanCommand:27 - Set ban or unban
+2017-06-04 13:44:09 INFO  UserBanLogic:29 - User banned or unbanned: fuckThis@gmail.com
+2017-06-04 13:44:10 INFO  UserDao:99 - Find all users in database
+2017-06-04 13:44:10 INFO  Controller:53 - Take command: login
+2017-06-04 13:44:12 INFO  Controller:53 - Take command: logout
+2017-06-04 13:44:16 INFO  Controller:53 - Take command: login
+2017-06-04 13:44:24 INFO  SingleGameCommand:31 - New single game was created.
+2017-06-04 13:44:24 INFO  Controller:53 - Take command: singlegame
+2017-06-04 13:44:56 INFO  AjaxController:37 - POST method
+2017-06-04 13:44:56 INFO  RequestHelper:46 - saveGame
+2017-06-04 13:44:56 INFO  SaveGameCommand:30 - Save game
+2017-06-04 13:44:56 INFO  ForwardCommand:21 - Forward command
+2017-06-04 13:44:56 INFO  Controller:53 - Take command: forward
+2017-06-04 13:48:38 INFO  ConnectionPool:137 - Closed 5 connections
+2017-06-04 13:55:02 INFO  ConnectionPool:137 - Closed 5 connections
+2017-06-04 13:56:50 INFO  ConnectionPool:137 - Closed 5 connections
+2017-06-04 13:57:20 INFO  Controller:53 - Take command: login
+2017-06-04 13:57:24 INFO  Controller:53 - Take command: login
+2017-06-04 13:57:39 INFO  Controller:53 - Take command: logout
+2017-06-04 13:57:43 INFO  Controller:53 - Take command: login
+2017-06-04 13:57:47 INFO  UserDao:99 - Find all users in database
+2017-06-04 13:57:47 INFO  Controller:53 - Take command: login
+2017-06-04 13:57:52 INFO  AjaxController:37 - POST method
+2017-06-04 13:57:52 INFO  RequestHelper:46 - setBan
+2017-06-04 13:57:52 INFO  SetBanCommand:27 - Set ban or unban
+2017-06-04 13:57:52 INFO  UserBanLogic:29 - User banned or unbanned: fuckThis@gmail.com
+2017-06-04 13:57:53 INFO  UserDao:99 - Find all users in database
+2017-06-04 13:57:53 INFO  Controller:53 - Take command: login
+2017-06-04 13:57:55 INFO  Controller:53 - Take command: logout
+2017-06-04 13:57:59 INFO  Controller:53 - Take command: login
+2017-06-04 13:58:00 INFO  Controller:53 - Take command: singlegame
+2017-06-04 13:58:16 INFO  ForwardCommand:21 - Forward command
+2017-06-04 13:58:16 INFO  Controller:53 - Take command: forward
+2017-06-04 13:59:29 INFO  Controller:53 - Take command: logout
+2017-06-04 13:59:32 INFO  Controller:53 - Take command: login
+2017-06-04 13:59:34 INFO  Controller:53 - Take command: singlegame
+2017-06-04 13:59:39 INFO  ConnectionPool:137 - Closed 5 connections
+2017-06-04 13:59:54 INFO  Controller:53 - Take command: login
+2017-06-04 13:59:56 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:00:25 INFO  Controller:53 - Take command: login
+2017-06-04 14:00:26 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:00:30 INFO  ConnectionPool:137 - Closed 5 connections
+2017-06-04 14:01:15 INFO  Controller:53 - Take command: login
+2017-06-04 14:01:17 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:01:18 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:01:19 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:01:19 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:01:19 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:01:19 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:01:20 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:01:21 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:01:21 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:01:21 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:01:21 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:01:22 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:01:22 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:01:22 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:01:22 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:02:26 INFO  ConnectionPool:137 - Closed 5 connections
+2017-06-04 14:02:47 INFO  Controller:53 - Take command: login
+2017-06-04 14:02:51 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:02:53 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:02:53 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:02:54 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:02:58 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:03:01 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:03:03 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:03:03 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:03:21 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:03:21 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:04:12 INFO  Controller:53 - Take command: logout
+2017-06-04 14:04:17 INFO  Controller:53 - Take command: login
+2017-06-04 14:04:39 INFO  Controller:53 - Take command: login
+2017-06-04 14:04:40 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:06:20 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:06:21 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:06:22 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:06:23 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:06:24 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:06:27 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:06:29 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:06:32 INFO  ConnectionPool:137 - Closed 5 connections
+2017-06-04 14:06:55 INFO  Controller:53 - Take command: login
+2017-06-04 14:06:57 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:06:59 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:17:53 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:17:54 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:17:55 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:21:35 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:21:38 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:21:38 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:23:08 INFO  ConnectionPool:137 - Closed 5 connections
+2017-06-04 14:39:43 INFO  Controller:53 - Take command: login
+2017-06-04 14:39:54 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:40:12 INFO  Controller:53 - Take command: login
+2017-06-04 14:40:12 INFO  ForwardCommand:21 - Forward command
+2017-06-04 14:40:12 INFO  Controller:53 - Take command: forward
+2017-06-04 14:40:16 INFO  Controller:53 - Take command: login
+2017-06-04 14:40:16 INFO  ForwardCommand:21 - Forward command
+2017-06-04 14:40:16 INFO  Controller:53 - Take command: forward
+2017-06-04 14:40:18 INFO  Controller:53 - Take command: logout
+2017-06-04 14:40:21 INFO  Controller:53 - Take command: login
+2017-06-04 14:40:58 INFO  ConnectionPool:137 - Closed 5 connections
+2017-06-04 14:44:32 INFO  Controller:53 - Take command: login
+2017-06-04 14:44:35 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:44:40 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:44:43 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:45:52 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:46:58 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:46:59 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:49:48 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:49:49 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:49:52 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:49:54 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:49:55 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:50:09 INFO  ForwardCommand:21 - Forward command
+2017-06-04 14:50:09 INFO  Controller:53 - Take command: forward
+2017-06-04 14:50:10 INFO  Controller:53 - Take command: logout
+2017-06-04 14:50:17 INFO  Controller:53 - Take command: login
+2017-06-04 14:50:45 INFO  Controller:53 - Take command: login
+2017-06-04 14:50:46 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:53:08 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:53:09 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:53:09 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:53:09 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:53:10 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:53:10 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:53:10 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:53:10 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:53:10 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:53:11 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:53:15 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:53:16 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:53:19 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:53:44 INFO  ConnectionPool:137 - Closed 5 connections
+2017-06-04 14:53:59 INFO  Controller:53 - Take command: login
+2017-06-04 14:54:06 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:54:51 INFO  Controller:53 - Take command: login
+2017-06-04 14:54:52 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:54:53 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:54:58 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:55:00 INFO  Controller:53 - Take command: singlegame
+2017-06-04 14:55:06 INFO  Controller:53 - Take command: logout
+2017-06-04 14:55:08 INFO  LanguageCommand:19 - Language command
+2017-06-04 14:55:08 INFO  LanguageCommand:23 - Add to session language parameter.
+2017-06-04 14:55:08 INFO  Controller:53 - Take command: language
+2017-06-04 14:55:10 INFO  LanguageCommand:19 - Language command
+2017-06-04 14:55:10 INFO  LanguageCommand:23 - Add to session language parameter.
+2017-06-04 14:55:10 INFO  Controller:53 - Take command: language
+2017-06-04 14:55:12 INFO  Controller:53 - Take command: login
+2017-06-04 14:55:23 INFO  Controller:53 - Take command: singlegame
+2017-06-04 15:06:06 INFO  Controller:53 - Take command: singlegame
+2017-06-04 15:06:08 INFO  Controller:53 - Take command: singlegame
+2017-06-04 15:06:11 INFO  Controller:53 - Take command: logout
+2017-06-04 15:06:15 INFO  UserDao:99 - Find all users in database
+2017-06-04 15:06:15 INFO  Controller:53 - Take command: login
+2017-06-04 15:06:19 INFO  AjaxController:37 - POST method
+2017-06-04 15:06:19 INFO  RequestHelper:46 - setBan
+2017-06-04 15:06:19 INFO  SetBanCommand:27 - Set ban or unban
+2017-06-04 15:06:19 INFO  UserBanLogic:29 - User banned or unbanned: fuckThis@gmail.com
+2017-06-04 15:06:20 INFO  UserDao:99 - Find all users in database
+2017-06-04 15:06:20 INFO  Controller:53 - Take command: login
+2017-06-04 15:06:22 INFO  Controller:53 - Take command: logout
+2017-06-04 15:06:25 INFO  Controller:53 - Take command: login
+2017-06-04 15:06:26 INFO  SingleGameCommand:31 - New single game was created.
+2017-06-04 15:06:26 INFO  Controller:53 - Take command: singlegame
+2017-06-04 15:06:51 INFO  AjaxController:37 - POST method
+2017-06-04 15:06:51 INFO  RequestHelper:46 - saveGame
+2017-06-04 15:06:51 INFO  SaveGameCommand:30 - Save game
+2017-06-04 15:06:51 INFO  ForwardCommand:21 - Forward command
+2017-06-04 15:06:51 INFO  Controller:53 - Take command: forward
+2017-06-04 15:41:50 INFO  ConnectionPool:137 - Closed 5 connections
+2017-06-04 15:43:04 INFO  Controller:53 - Take command: login
+2017-06-04 15:43:06 INFO  SingleGameCommand:31 - New single game was created.
+2017-06-04 15:43:06 INFO  Controller:53 - Take command: singlegame
+2017-06-04 15:43:33 INFO  AjaxController:37 - POST method
+2017-06-04 15:43:33 INFO  RequestHelper:46 - saveGame
+2017-06-04 15:43:33 INFO  SaveGameCommand:30 - Save game
+2017-06-04 15:43:33 ERROR SaveGameCommand:44 - SQLException in DAO layer!
+2017-06-04 15:43:33 INFO  ForwardCommand:21 - Forward command
+2017-06-04 15:43:33 INFO  Controller:53 - Take command: forward
+2017-06-04 16:12:05 INFO  Controller:53 - Take command: logout
+2017-06-04 16:12:11 INFO  Controller:53 - Take command: login
+2017-06-04 16:12:16 INFO  UserDao:99 - Find all users in database
+2017-06-04 16:12:16 INFO  Controller:53 - Take command: login
+2017-06-04 16:12:37 INFO  SetGameStartupParamCommand:29 - Setting game startup prop.
+2017-06-04 16:12:37 INFO  Controller:53 - Take command: gamestartupparam
+2017-06-04 16:31:43 INFO  ConnectionPool:137 - Closed 5 connections
+2017-06-05 10:41:56 INFO  UserDao:99 - Find all users in database
+2017-06-05 10:41:56 INFO  Controller:53 - Take command: login
+2017-06-05 10:42:42 INFO  Controller:53 - Take command: logout
+2017-06-05 10:42:45 INFO  Controller:53 - Take command: login
+2017-06-05 10:42:57 ERROR MessageDao:62 - Add method SQLException.
+2017-06-05 10:42:57 ERROR SendMessageCommand:31 - Something has gone wrong, redirect to error page.
+by.bsu.grabar.exception.ServiceException: DAOException
+	at by.bsu.grabar.logic.SendMessageToAdmin.send(SendMessageToAdmin.java:24)
+	at by.bsu.grabar.command.action.SendMessageCommand.execute(SendMessageCommand.java:28)
+	at by.bsu.grabar.servlet.Controller.processRequest(Controller.java:52)
+	at by.bsu.grabar.servlet.Controller.doGet(Controller.java:38)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:622)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:230)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at by.bsu.grabar.filter.FilterEncoding.doFilter(FilterEncoding.java:26)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:474)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:624)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:349)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:783)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:798)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1434)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: by.bsu.grabar.error.DAOException: SQLException in DAO layer!
+	at by.bsu.grabar.dao.inml.MessageDao.add(MessageDao.java:63)
+	at by.bsu.grabar.logic.SendMessageToAdmin.send(SendMessageToAdmin.java:22)
+	... 30 more
+Caused by: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'data' in 'field list'
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.Util.getInstance(Util.java:381)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1030)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:956)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3491)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3423)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1936)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2060)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2542)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1734)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2019)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1937)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1922)
+	at by.bsu.grabar.dao.inml.MessageDao.add(MessageDao.java:60)
+	... 31 more
+2017-06-05 10:42:57 INFO  Controller:53 - Take command: sendMessage
+2017-06-05 10:50:49 ERROR MessageDao:62 - Add method SQLException.
+2017-06-05 10:50:49 ERROR SendMessageCommand:31 - Something has gone wrong, redirect to error page.
+by.bsu.grabar.exception.ServiceException: DAOException
+	at by.bsu.grabar.logic.SendMessageToAdmin.send(SendMessageToAdmin.java:24)
+	at by.bsu.grabar.command.action.SendMessageCommand.execute(SendMessageCommand.java:28)
+	at by.bsu.grabar.servlet.Controller.processRequest(Controller.java:52)
+	at by.bsu.grabar.servlet.Controller.doGet(Controller.java:38)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:622)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:230)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at by.bsu.grabar.filter.FilterEncoding.doFilter(FilterEncoding.java:26)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:474)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:624)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:349)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:783)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:798)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1434)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: by.bsu.grabar.error.DAOException: SQLException in DAO layer!
+	at by.bsu.grabar.dao.inml.MessageDao.add(MessageDao.java:63)
+	at by.bsu.grabar.logic.SendMessageToAdmin.send(SendMessageToAdmin.java:22)
+	... 30 more
+Caused by: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'data' in 'field list'
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.Util.getInstance(Util.java:381)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1030)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:956)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3491)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3423)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1936)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2060)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2542)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1734)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2019)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1937)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1922)
+	at by.bsu.grabar.dao.inml.MessageDao.add(MessageDao.java:60)
+	... 31 more
+2017-06-05 10:50:49 INFO  Controller:53 - Take command: sendMessage
+2017-06-05 10:50:52 INFO  ForwardCommand:21 - Forward command
+2017-06-05 10:50:52 INFO  Controller:53 - Take command: forward
+2017-06-05 10:51:05 ERROR MessageDao:62 - Add method SQLException.
+2017-06-05 10:51:05 ERROR SendMessageCommand:31 - Something has gone wrong, redirect to error page.
+by.bsu.grabar.exception.ServiceException: DAOException
+	at by.bsu.grabar.logic.SendMessageToAdmin.send(SendMessageToAdmin.java:24)
+	at by.bsu.grabar.command.action.SendMessageCommand.execute(SendMessageCommand.java:28)
+	at by.bsu.grabar.servlet.Controller.processRequest(Controller.java:52)
+	at by.bsu.grabar.servlet.Controller.doGet(Controller.java:38)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:622)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:230)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at by.bsu.grabar.filter.FilterEncoding.doFilter(FilterEncoding.java:26)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:474)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:624)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:349)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:783)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:798)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1434)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: by.bsu.grabar.error.DAOException: SQLException in DAO layer!
+	at by.bsu.grabar.dao.inml.MessageDao.add(MessageDao.java:63)
+	at by.bsu.grabar.logic.SendMessageToAdmin.send(SendMessageToAdmin.java:22)
+	... 30 more
+Caused by: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'data' in 'field list'
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.Util.getInstance(Util.java:381)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1030)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:956)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3491)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3423)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1936)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2060)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2542)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1734)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2019)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1937)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1922)
+	at by.bsu.grabar.dao.inml.MessageDao.add(MessageDao.java:60)
+	... 31 more
+2017-06-05 10:51:05 INFO  Controller:53 - Take command: sendMessage
+2017-06-05 10:51:12 INFO  ForwardCommand:21 - Forward command
+2017-06-05 10:51:12 INFO  Controller:53 - Take command: forward
+2017-06-05 10:51:52 INFO  ConnectionPool:137 - Closed 5 connections
+2017-06-05 10:52:11 INFO  Controller:53 - Take command: login
+2017-06-05 10:52:23 ERROR MessageDao:62 - Add method SQLException.
+2017-06-05 10:52:23 ERROR SendMessageCommand:31 - Something has gone wrong, redirect to error page.
+by.bsu.grabar.exception.ServiceException: DAOException
+	at by.bsu.grabar.logic.SendMessageToAdmin.send(SendMessageToAdmin.java:24)
+	at by.bsu.grabar.command.action.SendMessageCommand.execute(SendMessageCommand.java:28)
+	at by.bsu.grabar.servlet.Controller.processRequest(Controller.java:52)
+	at by.bsu.grabar.servlet.Controller.doGet(Controller.java:38)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:622)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:230)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at by.bsu.grabar.filter.FilterEncoding.doFilter(FilterEncoding.java:26)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:474)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:624)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:349)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:783)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:798)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1434)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: by.bsu.grabar.error.DAOException: SQLException in DAO layer!
+	at by.bsu.grabar.dao.inml.MessageDao.add(MessageDao.java:63)
+	at by.bsu.grabar.logic.SendMessageToAdmin.send(SendMessageToAdmin.java:22)
+	... 30 more
+Caused by: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'data' in 'field list'
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.Util.getInstance(Util.java:381)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1030)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:956)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3491)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3423)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1936)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2060)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2542)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1734)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2019)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1937)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1922)
+	at by.bsu.grabar.dao.inml.MessageDao.add(MessageDao.java:60)
+	... 31 more
+2017-06-05 10:52:23 INFO  Controller:53 - Take command: sendMessage
+2017-06-05 10:52:38 INFO  ForwardCommand:21 - Forward command
+2017-06-05 10:52:38 INFO  Controller:53 - Take command: forward
+2017-06-05 10:53:17 INFO  ConnectionPool:137 - Closed 5 connections
+2017-06-05 10:53:41 INFO  Controller:53 - Take command: login
+2017-06-05 10:53:53 ERROR MessageDao:62 - Add method SQLException.
+2017-06-05 10:53:53 ERROR SendMessageCommand:31 - Something has gone wrong, redirect to error page.
+by.bsu.grabar.exception.ServiceException: DAOException
+	at by.bsu.grabar.logic.SendMessageToAdmin.send(SendMessageToAdmin.java:24)
+	at by.bsu.grabar.command.action.SendMessageCommand.execute(SendMessageCommand.java:28)
+	at by.bsu.grabar.servlet.Controller.processRequest(Controller.java:52)
+	at by.bsu.grabar.servlet.Controller.doGet(Controller.java:38)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:622)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:230)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at by.bsu.grabar.filter.FilterEncoding.doFilter(FilterEncoding.java:26)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:474)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:624)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:349)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:783)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:798)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1434)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: by.bsu.grabar.error.DAOException: SQLException in DAO layer!
+	at by.bsu.grabar.dao.inml.MessageDao.add(MessageDao.java:63)
+	at by.bsu.grabar.logic.SendMessageToAdmin.send(SendMessageToAdmin.java:22)
+	... 30 more
+Caused by: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'data' in 'field list'
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.Util.getInstance(Util.java:381)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1030)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:956)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3491)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3423)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1936)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2060)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2542)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1734)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2019)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1937)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1922)
+	at by.bsu.grabar.dao.inml.MessageDao.add(MessageDao.java:60)
+	... 31 more
+2017-06-05 10:53:53 INFO  Controller:53 - Take command: sendMessage
+2017-06-05 10:53:57 INFO  ForwardCommand:21 - Forward command
+2017-06-05 10:53:57 INFO  Controller:53 - Take command: forward
+2017-06-05 10:55:40 INFO  ConnectionPool:137 - Closed 5 connections
+2017-06-05 10:55:58 INFO  Controller:53 - Take command: login
+2017-06-05 10:57:08 ERROR MessageDao:62 - Add method SQLException.
+2017-06-05 10:57:08 ERROR SendMessageCommand:31 - Something has gone wrong, redirect to error page.
+by.bsu.grabar.exception.ServiceException: DAOException
+	at by.bsu.grabar.logic.SendMessageToAdmin.send(SendMessageToAdmin.java:24)
+	at by.bsu.grabar.command.action.SendMessageCommand.execute(SendMessageCommand.java:28)
+	at by.bsu.grabar.servlet.Controller.processRequest(Controller.java:52)
+	at by.bsu.grabar.servlet.Controller.doGet(Controller.java:38)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:622)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:230)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at by.bsu.grabar.filter.FilterEncoding.doFilter(FilterEncoding.java:26)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:474)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:624)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:349)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:783)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:798)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1434)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: by.bsu.grabar.error.DAOException: SQLException in DAO layer!
+	at by.bsu.grabar.dao.inml.MessageDao.add(MessageDao.java:63)
+	at by.bsu.grabar.logic.SendMessageToAdmin.send(SendMessageToAdmin.java:22)
+	... 30 more
+Caused by: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'data' in 'field list'
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.Util.getInstance(Util.java:381)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1030)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:956)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3491)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3423)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1936)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2060)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2542)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1734)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2019)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1937)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1922)
+	at by.bsu.grabar.dao.inml.MessageDao.add(MessageDao.java:60)
+	... 31 more
+2017-06-05 10:57:08 INFO  Controller:53 - Take command: sendMessage
+2017-06-05 10:57:09 INFO  ConnectionPool:137 - Closed 5 connections
+2017-06-05 10:57:27 INFO  Controller:53 - Take command: login
+2017-06-05 10:57:32 INFO  Controller:53 - Take command: sendMessage
+2017-06-05 10:57:34 INFO  Controller:53 - Take command: logout
+2017-06-05 10:57:38 INFO  UserDao:99 - Find all users in database
+2017-06-05 10:57:38 INFO  Controller:53 - Take command: login
+2017-06-05 10:58:14 INFO  SetGameStartupParamCommand:29 - Setting game startup prop.
+2017-06-05 10:58:14 INFO  Controller:53 - Take command: gamestartupparam
+2017-06-05 10:58:16 INFO  Controller:53 - Take command: logout
+2017-06-05 10:58:21 INFO  Controller:53 - Take command: login
+2017-06-05 10:59:21 INFO  UploadFileServlet:55 - images\photos\delete.png
+2017-06-05 10:59:25 INFO  UploadFileServlet:55 - images\photos\person.jpg
+2017-06-05 10:59:30 INFO  SingleGameCommand:31 - New single game was created.
+2017-06-05 10:59:30 INFO  Controller:53 - Take command: singlegame
+2017-06-05 11:00:06 INFO  SingleGameCommand:31 - New single game was created.
+2017-06-05 11:00:06 INFO  Controller:53 - Take command: singlegame
+2017-06-05 11:00:06 INFO  SingleGameCommand:31 - New single game was created.
+2017-06-05 11:00:06 INFO  Controller:53 - Take command: singlegame
+2017-06-05 11:00:06 INFO  SingleGameCommand:31 - New single game was created.
+2017-06-05 11:00:06 INFO  Controller:53 - Take command: singlegame
+2017-06-05 11:00:07 INFO  SingleGameCommand:31 - New single game was created.
+2017-06-05 11:00:07 INFO  Controller:53 - Take command: singlegame
+2017-06-05 11:00:07 INFO  SingleGameCommand:31 - New single game was created.
+2017-06-05 11:00:07 INFO  Controller:53 - Take command: singlegame
+2017-06-05 11:00:07 INFO  SingleGameCommand:31 - New single game was created.
+2017-06-05 11:00:07 INFO  Controller:53 - Take command: singlegame
+2017-06-05 11:04:09 INFO  ConnectionPool:137 - Closed 5 connections
+2017-06-05 11:04:24 INFO  Controller:53 - Take command: login
+2017-06-05 11:04:52 INFO  SingleGameCommand:31 - New single game was created.
+2017-06-05 11:04:56 INFO  Controller:53 - Take command: singlegame
+2017-06-05 11:05:19 INFO  ConnectionPool:137 - Closed 5 connections
+2017-06-05 11:06:11 INFO  UserDao:99 - Find all users in database
+2017-06-05 11:06:12 INFO  Controller:53 - Take command: login
+2017-06-05 11:06:18 INFO  SetGameStartupParamCommand:29 - Setting game startup prop.
+2017-06-05 11:06:18 INFO  Controller:53 - Take command: gamestartupparam
+2017-06-05 11:06:20 INFO  Controller:53 - Take command: logout
+2017-06-05 11:06:23 INFO  Controller:53 - Take command: login
+2017-06-05 11:06:24 INFO  SingleGameCommand:31 - New single game was created.
+2017-06-05 11:06:24 INFO  Controller:53 - Take command: singlegame
+2017-06-05 11:06:25 INFO  SingleGameCommand:31 - New single game was created.
+2017-06-05 11:06:25 INFO  Controller:53 - Take command: singlegame
+2017-06-05 11:06:26 INFO  SingleGameCommand:31 - New single game was created.
+2017-06-05 11:06:26 INFO  Controller:53 - Take command: singlegame
+2017-06-05 11:06:27 INFO  ForwardCommand:21 - Forward command
+2017-06-05 11:06:27 INFO  Controller:53 - Take command: forward
+2017-06-05 11:06:51 INFO  SingleGameCommand:31 - New single game was created.
+2017-06-05 11:06:51 INFO  Controller:53 - Take command: singlegame
+2017-06-05 11:06:53 INFO  SingleGameCommand:31 - New single game was created.
+2017-06-05 11:06:53 INFO  Controller:53 - Take command: singlegame
+2017-06-05 11:06:53 INFO  SingleGameCommand:31 - New single game was created.
+2017-06-05 11:06:53 INFO  Controller:53 - Take command: singlegame
+2017-06-05 11:06:53 INFO  SingleGameCommand:31 - New single game was created.
+2017-06-05 11:06:53 INFO  Controller:53 - Take command: singlegame
+2017-06-05 11:06:53 INFO  SingleGameCommand:31 - New single game was created.
+2017-06-05 11:06:53 INFO  Controller:53 - Take command: singlegame
+2017-06-05 11:06:53 INFO  SingleGameCommand:31 - New single game was created.
+2017-06-05 11:06:53 INFO  Controller:53 - Take command: singlegame
+2017-06-05 11:06:54 INFO  SingleGameCommand:31 - New single game was created.
+2017-06-05 11:06:54 INFO  Controller:53 - Take command: singlegame
+2017-06-05 11:06:54 INFO  SingleGameCommand:31 - New single game was created.
+2017-06-05 11:06:54 INFO  Controller:53 - Take command: singlegame
+2017-06-05 11:06:54 INFO  SingleGameCommand:31 - New single game was created.
+2017-06-05 11:06:54 INFO  Controller:53 - Take command: singlegame
+2017-06-05 11:06:54 INFO  SingleGameCommand:31 - New single game was created.
+2017-06-05 11:06:54 INFO  Controller:53 - Take command: singlegame
+2017-06-05 11:06:55 INFO  SingleGameCommand:31 - New single game was created.
+2017-06-05 11:06:55 INFO  Controller:53 - Take command: singlegame
+2017-06-05 11:06:57 INFO  ForwardCommand:21 - Forward command
+2017-06-05 11:06:57 INFO  Controller:53 - Take command: forward
+2017-06-05 11:07:03 INFO  SingleGameCommand:31 - New single game was created.
+2017-06-05 11:07:03 INFO  Controller:53 - Take command: singlegame
+2017-06-05 11:07:29 INFO  ConnectionPool:137 - Closed 5 connections
+2017-06-05 11:07:51 INFO  UserDao:99 - Find all users in database
+2017-06-05 11:07:51 INFO  Controller:53 - Take command: login
+2017-06-05 11:07:57 INFO  SetGameStartupParamCommand:29 - Setting game startup prop.
+2017-06-05 11:07:57 INFO  Controller:53 - Take command: gamestartupparam
+2017-06-05 11:07:59 INFO  Controller:53 - Take command: logout
+2017-06-05 11:08:04 INFO  Controller:53 - Take command: login
+2017-06-05 11:27:37 INFO  SingleGameCommand:31 - New single game was created.
+2017-06-05 11:27:37 INFO  Controller:53 - Take command: singlegame
+2017-06-05 11:27:38 INFO  ConnectionPool:137 - Closed 5 connections
+2017-06-05 11:33:08 INFO  UserDao:99 - Find all users in database
+2017-06-05 11:33:08 INFO  Controller:53 - Take command: login
+2017-06-05 11:33:10 INFO  SetGameStartupParamCommand:29 - Setting game startup prop.
+2017-06-05 11:33:10 INFO  Controller:53 - Take command: gamestartupparam
+2017-06-05 11:33:12 INFO  Controller:53 - Take command: logout
+2017-06-05 11:33:15 INFO  Controller:53 - Take command: login
+2017-06-05 11:33:17 ERROR StartupGameProp:64 - Property file is not found.
+2017-06-05 11:33:17 ERROR StartupGameProp:64 - Property file is not found.
+2017-06-05 11:33:17 INFO  SingleGameCommand:31 - New single game was created.
+2017-06-05 11:33:17 INFO  Controller:53 - Take command: singlegame
+2017-06-05 11:34:23 INFO  ConnectionPool:137 - Closed 5 connections
+2017-06-05 11:34:40 INFO  Controller:53 - Take command: login
+2017-06-05 11:34:51 ERROR StartupGameProp:64 - Property file is not found.
+2017-06-05 11:35:21 ERROR StartupGameProp:64 - Property file is not found.
+2017-06-05 11:35:24 INFO  SingleGameCommand:31 - New single game was created.
+2017-06-05 11:35:24 INFO  Controller:53 - Take command: singlegame
+2017-06-05 11:35:25 INFO  ConnectionPool:137 - Closed 5 connections
+2017-06-05 11:37:31 INFO  Controller:53 - Take command: login
+2017-06-05 11:37:36 INFO  UserDao:99 - Find all users in database
+2017-06-05 11:37:36 INFO  Controller:53 - Take command: login
+2017-06-05 11:37:59 INFO  ConnectionPool:137 - Closed 5 connections
+2017-06-05 11:38:29 INFO  UserDao:99 - Find all users in database
+2017-06-05 11:38:29 INFO  Controller:53 - Take command: login
+2017-06-05 11:38:43 INFO  ForwardCommand:21 - Forward command
+2017-06-05 11:38:43 INFO  Controller:53 - Take command: forward
+2017-06-05 11:39:05 INFO  Controller:53 - Take command: logout
+2017-06-05 11:39:49 INFO  ConnectionPool:137 - Closed 5 connections
+2017-06-05 11:40:03 INFO  UserDao:99 - Find all users in database
+2017-06-05 11:40:03 INFO  Controller:53 - Take command: login
+2017-06-05 11:40:35 INFO  ConnectionPool:137 - Closed 5 connections
+2017-06-05 11:41:26 INFO  UserDao:99 - Find all users in database
+2017-06-05 11:41:26 INFO  Controller:53 - Take command: login
+2017-06-05 11:42:09 INFO  ConnectionPool:137 - Closed 5 connections
+2017-06-05 11:42:30 INFO  UserDao:99 - Find all users in database
+2017-06-05 11:42:30 INFO  Controller:53 - Take command: login
+2017-06-05 11:44:15 INFO  ConnectionPool:137 - Closed 5 connections
+2017-06-05 11:44:32 INFO  UserDao:99 - Find all users in database
+2017-06-05 11:44:32 INFO  Controller:53 - Take command: login
+2017-06-05 11:44:41 INFO  ForwardCommand:21 - Forward command
+2017-06-05 11:44:41 INFO  Controller:53 - Take command: forward
+2017-06-05 11:44:43 INFO  Controller:53 - Take command: logout
+2017-06-05 11:44:49 INFO  ConnectionPool:137 - Closed 5 connections
+2017-06-05 11:45:20 INFO  UserDao:99 - Find all users in database
+2017-06-05 11:45:20 INFO  Controller:53 - Take command: login
+2017-06-05 11:46:01 INFO  ConnectionPool:137 - Closed 5 connections
+2017-06-05 11:46:20 INFO  UserDao:99 - Find all users in database
+2017-06-05 11:46:20 INFO  Controller:53 - Take command: login
+2017-06-05 11:47:23 INFO  ConnectionPool:137 - Closed 5 connections
+2017-06-05 11:54:04 INFO  UserDao:99 - Find all users in database
+2017-06-05 11:54:04 INFO  Controller:53 - Take command: login
+2017-06-05 11:54:08 INFO  SetGameStartupParamCommand:29 - Setting game startup prop.
+2017-06-05 11:54:08 INFO  Controller:53 - Take command: gamestartupparam
+2017-06-05 11:54:09 INFO  Controller:53 - Take command: logout
+2017-06-05 11:54:13 INFO  Controller:53 - Take command: login
+2017-06-05 11:54:14 INFO  SingleGameCommand:32 - New single game was created.
+2017-06-05 11:54:14 INFO  Controller:53 - Take command: singlegame
+2017-06-05 11:54:21 INFO  ForwardCommand:21 - Forward command
+2017-06-05 11:54:21 INFO  Controller:53 - Take command: forward
+2017-06-05 11:54:35 INFO  ConnectionPool:137 - Closed 5 connections
+2017-06-05 11:54:52 INFO  UserDao:99 - Find all users in database
+2017-06-05 11:54:52 INFO  Controller:53 - Take command: login
+2017-06-05 11:54:57 INFO  SetGameStartupParamCommand:29 - Setting game startup prop.
+2017-06-05 11:54:59 INFO  Controller:53 - Take command: gamestartupparam
+2017-06-05 11:55:17 INFO  Controller:53 - Take command: logout
+2017-06-05 11:55:21 INFO  Controller:53 - Take command: login
+2017-06-05 11:55:22 INFO  SingleGameCommand:32 - New single game was created.
+2017-06-05 11:55:22 INFO  Controller:53 - Take command: singlegame
+2017-06-05 11:55:32 INFO  ForwardCommand:21 - Forward command
+2017-06-05 11:55:32 INFO  Controller:53 - Take command: forward
+2017-06-05 11:56:32 INFO  ConnectionPool:137 - Closed 5 connections
+2017-06-05 11:56:49 INFO  Controller:53 - Take command: login
+2017-06-05 11:58:38 INFO  SingleGameCommand:32 - New single game was created.
+2017-06-05 11:58:38 INFO  Controller:53 - Take command: singlegame
+2017-06-05 11:58:39 INFO  ConnectionPool:137 - Closed 5 connections
+2017-06-05 12:03:20 INFO  UserDao:99 - Find all users in database
+2017-06-05 12:03:20 INFO  Controller:53 - Take command: login
+2017-06-05 12:03:25 INFO  ForwardCommand:21 - Forward command
+2017-06-05 12:03:25 INFO  Controller:53 - Take command: forward
+2017-06-05 12:04:19 INFO  ConnectionPool:137 - Closed 5 connections
+2017-06-05 12:04:35 INFO  UserDao:99 - Find all users in database
+2017-06-05 12:04:35 INFO  Controller:53 - Take command: login
+2017-06-05 12:04:38 INFO  SetGameStartupParamCommand:29 - Setting game startup prop.
+2017-06-05 12:04:38 INFO  Controller:53 - Take command: gamestartupparam
+2017-06-05 12:04:46 INFO  Controller:53 - Take command: logout
+2017-06-05 12:04:49 INFO  Controller:53 - Take command: login
+2017-06-05 12:04:50 INFO  SingleGameCommand:32 - New single game was created.
+2017-06-05 12:04:50 INFO  Controller:53 - Take command: singlegame
+2017-06-05 12:05:49 INFO  ConnectionPool:137 - Closed 5 connections
+2017-06-05 13:05:58 INFO  LanguageCommand:19 - Language command
+2017-06-05 13:05:58 INFO  LanguageCommand:23 - Add to session language parameter.
+2017-06-05 13:05:58 INFO  Controller:53 - Take command: language
+2017-06-05 13:06:02 INFO  LanguageCommand:19 - Language command
+2017-06-05 13:06:02 INFO  LanguageCommand:23 - Add to session language parameter.
+2017-06-05 13:06:02 INFO  Controller:53 - Take command: language
+2017-06-05 13:07:46 INFO  Controller:53 - Take command: registration
+2017-06-05 13:07:47 INFO  ForwardCommand:21 - Forward command
+2017-06-05 13:07:47 INFO  Controller:53 - Take command: forward
+2017-06-05 13:08:11 INFO  UploadFileServlet:55 - images\photos\person.jpg
+2017-06-05 13:11:00 INFO  ConnectionPool:137 - Closed 5 connections
+2017-06-05 13:11:26 INFO  Controller:53 - Take command: login
+2017-06-05 13:14:11 INFO  ChangeBalanceCommand:41 - Change balance command
+2017-06-05 13:14:12 INFO  UserDao:123 - fuckThis@gmail.com - Updated score and rating
+2017-06-05 13:14:16 INFO  Controller:53 - Take command: addbalance
+2017-06-05 13:18:12 INFO  SingleGameCommand:32 - New single game was created.
+2017-06-05 13:18:12 INFO  Controller:53 - Take command: singlegame
+2017-06-05 13:20:26 INFO  AjaxController:37 - POST method
+2017-06-05 13:20:26 INFO  RequestHelper:46 - saveGame
+2017-06-05 13:20:26 INFO  SaveGameCommand:30 - Save game
+2017-06-05 13:20:26 INFO  ForwardCommand:21 - Forward command
+2017-06-05 13:20:26 INFO  Controller:53 - Take command: forward
+2017-06-05 13:20:42 INFO  ForwardCommand:21 - Forward command
+2017-06-05 13:20:42 INFO  Controller:53 - Take command: forward
+2017-06-05 13:20:43 INFO  SingleGameCommand:32 - New single game was created.
+2017-06-05 13:20:43 INFO  Controller:53 - Take command: singlegame
+2017-06-05 13:21:08 INFO  AjaxController:37 - POST method
+2017-06-05 13:21:08 INFO  RequestHelper:46 - saveGame
+2017-06-05 13:21:08 INFO  SaveGameCommand:30 - Save game
+2017-06-05 13:21:08 ERROR SaveGameCommand:44 - SQLException in DAO layer!
+2017-06-05 13:21:08 INFO  ForwardCommand:21 - Forward command
+2017-06-05 13:21:08 INFO  Controller:53 - Take command: forward
+2017-06-05 13:21:44 INFO  Controller:53 - Take command: logout
+2017-06-05 13:22:12 INFO  UserDao:99 - Find all users in database
+2017-06-05 13:22:12 INFO  Controller:53 - Take command: login
+2017-06-05 13:22:53 INFO  AjaxController:37 - POST method
+2017-06-05 13:22:53 INFO  RequestHelper:46 - setBan
+2017-06-05 13:22:53 INFO  SetBanCommand:27 - Set ban or unban
+2017-06-05 13:22:53 INFO  UserBanLogic:29 - User banned or unbanned: masha123@gmail.com
+2017-06-05 13:22:54 INFO  UserDao:99 - Find all users in database
+2017-06-05 13:22:54 INFO  Controller:53 - Take command: login
+2017-06-05 13:22:58 INFO  AjaxController:37 - POST method
+2017-06-05 13:22:58 INFO  RequestHelper:46 - setBan
+2017-06-05 13:22:58 INFO  SetBanCommand:27 - Set ban or unban
+2017-06-05 13:22:58 INFO  UserBanLogic:29 - User banned or unbanned: masha123@gmail.com
+2017-06-05 13:22:59 INFO  UserDao:99 - Find all users in database
+2017-06-05 13:22:59 INFO  Controller:53 - Take command: login
+2017-06-05 13:24:48 INFO  AjaxController:37 - POST method
+2017-06-05 13:24:48 INFO  RequestHelper:46 - delete_message
+2017-06-05 13:24:48 INFO  DeleteMessageCommand:26 - Message deleted
+2017-06-05 13:24:49 INFO  UserDao:99 - Find all users in database
+2017-06-05 13:24:49 INFO  Controller:53 - Take command: login
+2017-06-05 13:26:23 INFO  SetGameStartupParamCommand:29 - Setting game startup prop.
+2017-06-05 13:26:23 INFO  Controller:53 - Take command: gamestartupparam
+2017-06-05 13:26:25 INFO  Controller:53 - Take command: logout
+2017-06-05 13:26:28 INFO  Controller:53 - Take command: login
+2017-06-05 13:26:30 INFO  SingleGameCommand:32 - New single game was created.
+2017-06-05 13:26:30 INFO  Controller:53 - Take command: singlegame
+2017-06-05 13:26:36 INFO  ForwardCommand:21 - Forward command
+2017-06-05 13:26:36 INFO  Controller:53 - Take command: forward
+2017-06-05 13:26:39 INFO  Controller:53 - Take command: logout
+2017-06-05 13:26:43 INFO  UserDao:99 - Find all users in database
+2017-06-05 13:26:43 INFO  Controller:53 - Take command: login
+2017-06-05 13:26:48 INFO  AjaxController:37 - POST method
+2017-06-05 13:26:48 INFO  RequestHelper:46 - setBan
+2017-06-05 13:26:48 INFO  SetBanCommand:27 - Set ban or unban
+2017-06-05 13:26:48 INFO  UserBanLogic:29 - User banned or unbanned: fuckThis@gmail.com
+2017-06-05 13:26:49 INFO  UserDao:99 - Find all users in database
+2017-06-05 13:26:49 INFO  Controller:53 - Take command: login
+2017-06-05 13:26:50 INFO  Controller:53 - Take command: logout
+2017-06-05 13:27:04 INFO  Controller:53 - Take command: login
+2017-06-05 13:27:06 INFO  Controller:53 - Take command: singlegame
+2017-06-05 13:27:17 INFO  Controller:53 - Take command: sendMessage
+2017-06-05 13:27:19 INFO  Controller:53 - Take command: logout
+2017-06-05 13:27:25 INFO  UserDao:99 - Find all users in database
+2017-06-05 13:27:25 INFO  Controller:53 - Take command: login
+2017-06-05 13:27:34 INFO  AjaxController:37 - POST method
+2017-06-05 13:27:34 INFO  RequestHelper:46 - setBan
+2017-06-05 13:27:34 INFO  SetBanCommand:27 - Set ban or unban
+2017-06-05 13:27:34 INFO  UserBanLogic:29 - User banned or unbanned: fuckThis@gmail.com
+2017-06-05 13:27:35 INFO  UserDao:99 - Find all users in database
+2017-06-05 13:27:35 INFO  Controller:53 - Take command: login
+2017-06-05 13:30:15 INFO  Controller:53 - Take command: logout
+2017-06-05 13:38:48 INFO  UserDao:99 - Find all users in database
+2017-06-05 13:38:48 INFO  Controller:53 - Take command: login
+2017-06-05 13:40:09 INFO  Controller:53 - Take command: logout
+2017-06-05 13:41:31 INFO  Controller:53 - Take command: login
+2017-06-05 13:45:04 INFO  Controller:53 - Take command: logout
+2017-06-05 20:19:15 INFO  ConnectionPool:137 - Closed 5 connections
+2017-07-12 17:57:42 INFO  Controller:53 - Take command: login
+2017-07-12 17:57:56 INFO  SingleGameCommand:32 - New single game was created.
+2017-07-12 17:57:56 INFO  Controller:53 - Take command: singlegame
+2017-07-12 17:59:18 INFO  ConnectionPool:137 - Closed 5 connections
+2017-07-18 00:18:15 INFO  LanguageCommand:19 - Language command
+2017-07-18 00:18:15 INFO  LanguageCommand:23 - Add to session language parameter.
+2017-07-18 00:18:15 INFO  Controller:53 - Take command: language
+2017-07-18 00:18:17 INFO  LanguageCommand:19 - Language command
+2017-07-18 00:18:17 INFO  LanguageCommand:23 - Add to session language parameter.
+2017-07-18 00:18:17 INFO  Controller:53 - Take command: language
+2017-07-18 00:18:26 INFO  Controller:53 - Take command: login
+2017-07-18 00:18:34 INFO  ChangeBalanceCommand:41 - Change balance command
+2017-07-18 00:18:34 INFO  UserDao:123 - fuckThis@gmail.com - Updated score and rating
+2017-07-18 00:18:34 INFO  Controller:53 - Take command: addbalance
+2017-07-18 00:18:44 INFO  ChangeBalanceCommand:41 - Change balance command
+2017-07-18 00:18:44 INFO  UserDao:123 - fuckThis@gmail.com - Updated score and rating
+2017-07-18 00:18:44 INFO  Controller:53 - Take command: reducebalance
+2017-07-18 00:19:06 INFO  Controller:53 - Take command: logout
+2017-07-18 00:19:09 INFO  UserDao:99 - Find all users in database
+2017-07-18 00:19:09 INFO  Controller:53 - Take command: login
+2017-07-18 00:19:24 INFO  SetGameStartupParamCommand:29 - Setting game startup prop.
+2017-07-18 00:19:24 INFO  Controller:53 - Take command: gamestartupparam
+2017-07-18 00:19:27 INFO  Controller:53 - Take command: logout
+2017-07-18 00:19:31 INFO  Controller:53 - Take command: login
+2017-07-18 00:19:33 INFO  SingleGameCommand:32 - New single game was created.
+2017-07-18 00:19:33 INFO  Controller:53 - Take command: singlegame
+2017-07-18 00:20:07 INFO  AjaxController:37 - POST method
+2017-07-18 00:20:07 INFO  RequestHelper:46 - saveGame
+2017-07-18 00:20:07 INFO  SaveGameCommand:30 - Save game
+2017-07-18 00:20:07 INFO  ForwardCommand:21 - Forward command
+2017-07-18 00:20:07 INFO  Controller:53 - Take command: forward
+2017-07-18 00:20:18 INFO  ConnectionPool:137 - Closed 5 connections

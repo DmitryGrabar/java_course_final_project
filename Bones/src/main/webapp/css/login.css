@@ -1,0 +1,428 @@
+body{
+    color: whitesmoke;
+    background-image: url("../images/back.jpg");
+    background-size: cover;
+    background-repeat:no-repeat;
+    box-sizing: inherit;
+    overflow: hidden;
+}
+p.clearfix {
+    margin-left: 10px;
+}
+
+a:hover, a:focus {
+    text-decoration: none;
+}
+
+#pay_add_money {
+    border-bottom: none;
+}
+
+.right-float{
+    float: right;
+    margin-right: 10px;
+}
+.star{
+    color: #BA0000; font-family: Verdana; font-size: 16px; font-weight: bold;
+}
+
+.left-float{
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+.visible{
+    display: block;
+}
+.hidden{
+    display: none;
+}
+
+#loginButton{
+    font-family: 'Great Vibes', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    margin-left: 15px;
+    width: 100px;
+    height: 25px;
+
+    /* Styles */
+    color: white;
+    background: #111;
+    border-radius: 10px;
+    border: 1px solid #191919;
+    box-shadow:
+            inset 0 0 2px 1px rgba(255,255,255,0.08),
+            0 16px 10px -8px rgba(0, 0, 0, 0.6);
+
+}
+#signupButton{
+    font-family: 'Great Vibes', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    width: 100px;
+    height: 25px;
+
+    /* Styles */
+    color: white;
+    background: #111;
+    border-radius: 10px;
+    border: 1px solid #191919;
+    box-shadow:
+            inset 0 0 2px 1px rgba(255,255,255,0.08),
+            0 16px 10px -8px rgba(0, 0, 0, 0.6);
+}
+
+table{
+    border-collapse: separate;
+    border-spacing: 2px;
+}
+
+textarea {
+    color: black;
+}
+.tableBut{
+    font-family: 'Great Vibes', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    /* Size and position */
+    width: 280px;
+    position: relative;
+    margin: 14% auto 0;
+    padding: 10px;
+    overflow: hidden;
+
+    /* Styles */
+    background: #111;
+    border-radius: 0.4em;
+    border: 1px solid #191919;
+    box-shadow:
+            inset 0 0 2px 1px rgba(255,255,255,0.08),
+            0 16px 10px -8px rgba(0, 0, 0, 0.6);
+}
+.sign-up-form {
+    font-family: 'Great Vibes', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    /* Size and position */
+    width: 260px;
+    position: relative;
+    margin: auto ;
+    padding: 10px;
+    overflow: hidden;
+
+    /* Styles */
+    background: #111;
+    border-radius: 0.4em;
+    border: 1px solid #191919;
+    box-shadow:
+            inset 0 0 2px 1px rgba(255,255,255,0.08),
+            0 16px 10px -8px rgba(0, 0, 0, 0.6);
+}
+.sign-up-form label {
+    /* Size and position */
+    width: 80%;
+    float: left;
+    margin-left: 10px;
+
+    /* Styles */
+    color: #ddd;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    text-shadow: 0 1px 0 #000;
+    text-indent: 10px;
+    font-weight: 700;
+    cursor: pointer;
+}
+.sign-up-form input[type=text],
+.sign-up-form input[type=email],
+.sign-up-form input[type=password] {
+    /* Size and position */
+    width: 80%;
+    float: left;
+    padding: 5px 5px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    font-size: 12px;
+
+    /* Styles */
+    background: linear-gradient(#1f2124, #27292c);
+    border: 1px solid #000;
+    box-shadow:
+            0 1px 0 rgba(255,255,255,0.1);
+    border-radius: 3px;
+
+    /* Font styles */
+    font-family: 'Great Vibes', cursive;
+    font-family: 'Open Sans', sans-serif;
+    color: #fff;
+
+}
+
+.sign-up-form input[type=text]:hover,
+.sign-up-form input[type=email]:hover,
+.sign-up-form input[type=password]:hover,
+.sign-up-form label:hover ~ input[type=text],
+.sign-up-form label:hover ~ input[type=email],
+.sign-up-form label:hover ~ input[type=password] {
+    background: #27292c;
+}
+
+.sign-up-form input[type=text]:focus,
+.sign-up-form input[type=email]:focus,
+.sign-up-form input[type=password]:focus{
+    box-shadow: inset 0 0 2px #000;
+    background: #494d54;
+    border-color: #51cbee;
+    outline: none; /* Remove Chrome outline */
+}
+
+.sign-up-form label[for=remember] {
+    width: auto;
+    float: none;
+    display: inline-block;
+    text-transform: capitalize;
+    font-size: 11px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    text-indent: 2px;
+}
+
+.sign-up-form input[type=checkbox] {
+    margin-left: 10px;
+    vertical-align: middle;
+}
+.sign-up-form input[type=submit] {
+    /* Width and position */
+    margin-left: 10px;
+    width: 80%;
+    padding: 5px 5px;
+
+    /* Styles */
+    border: 1px solid #0273dd; /* Fallback */
+    border: 1px solid rgba(0,0,0,0.4);
+    box-shadow:
+            inset 0 1px 0 rgba(255,255,255,0.3),
+            inset 0 10px 10px rgba(255,255,255,0.1);
+    border-radius: 3px;
+    background: green;
+    cursor:pointer;
+
+    /* Font styles */
+    font-family: 'Great Vibes', cursive;
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    font-weight: 700;
+    font-size: 15px;
+    text-shadow: 0 -1px 0 rgba(0,0,0,0.8);
+}
+
+#submit_form2{
+    margin-top: 0px;
+}
+
+.sign-up-form input[type=submit]:hover {
+    box-shadow: inset 0 1px 0 rgba(255,255,255,0.6);
+}
+
+.sign-up-form input[type=submit]:active {
+    background: #287db5;
+    box-shadow: inset 0 0 3px rgba(0,0,0,0.6);
+    border-color: #000; /* Fallback */
+    border-color: rgba(0,0,0,0.9);
+}
+
+.no-boxshadow .sign-up-form input[type=submit]:hover {
+    background: #2a92d8;
+}
+
+.sign-up-form p:nth-child(1):before{
+    /* Size and position */
+    content: "";
+    width: 250px;
+    height: 100px;
+    position: absolute;
+    top: 0;
+    left: 45px;
+
+    /* Styles */
+    transform: rotate(75deg);
+    background: linear-gradient(50deg, rgba(255,255,255,0.15), rgba(0,0,0,0));
+    pointer-events: none;
+}
+.no-pointerevents .sign-up-form p:nth-child(1):before {
+    display: none;
+}
+li {
+    list-style-type: none; /* Убираем маркеры */
+}
+/* The Modal (background) */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal-content {
+    font-family: 'Great Vibes', cursive;
+    font-family: 'Open Sans', sans-serif;
+    background-color: #111;
+    color:white;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+}
+
+/* The Close Button */
+.close {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+*{
+    box-sizing: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
+
+.btn-default{
+    margin-top: 7px;
+    background-color: #333;
+    color: white;
+    border: none;
+}
+.dropdown-menu{
+    background-color: #333;
+    color: white;
+    min-width: 85px;
+}
+
+#ru{
+    width: 80px;
+    color: #1f2124;
+}
+#eng{
+    width: 80px;
+    color: #1f2124;
+}
+.fileform{
+        width: 265px;
+}
+.profile{
+    float: left;
+    height: 30%;
+    width: 70%;
+}
+
+#admin_message{
+    color:black;
+}
+
+.overlay {
+    background-color: rgba(0, 0, 0, 0.7);
+    bottom: 0;
+    cursor: default;
+    left: 0;
+    opacity: 0;
+    position: fixed;
+    right: 0;
+    top: 0;
+    visibility: hidden;
+    z-index: 99999;
+    -webkit-transition: opacity .5s;
+    -moz-transition: opacity .5s;
+    -o-transition: opacity .5s;
+    transition: opacity .5s;
+}
+
+.popup {
+    background-color: #fff;
+    border: 3px solid #fff;
+    color: #737373;
+    display: inline-block;
+    left: 50%;
+    opacity: 0;
+    padding: 15px;
+    max-width: 90%;
+    max-height: 90%;
+    position: fixed;
+    text-align: justify;
+    top: 40%;
+    visibility: hidden;
+    z-index: 999999;
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    -webkit-transition: opacity .5s, top .5s;
+    -moz-transition: opacity .5s, top .5s;
+    -o-transition: opacity .5s, top .5s;
+    transition: opacity .5s, top .5s;
+    border-radius: 11px;
+}
+
+.popup .close_window {
+    width: 6px;
+    height: 17px;
+    position: absolute;
+    padding: 1px 9px 4px 9px;
+    top: -15px;
+    right: -15px;
+    cursor: pointer;
+    color: #fff;
+    font-family: 'tahoma', sans-serif;
+    background-color: #5cb85c;
+    border: 1px solid #3c763d;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    text-align: center;
+    box-shadow: -1px 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+.popup .close_window:hover {
+    background: -webkit-gradient(linear, left top, right top, from(#051fb8), to(#3d51c8));
+    background: -webkit-linear-gradient(top, #051fb8, #3d51c8);
+    background: -o-linear-gradient(top, #051fb8, #3d51c8);
+    background: -ms-linear-gradient(top, #051fb8, #3d51c8);
+    background: linear-gradient(top, #051fb8, #3d51c8);
+    background-color: #051fb8;
+    border: 1px solid #00385E;
+}
+
+.popup .close_window:active {
+    background: #8f9be0;
+}
+

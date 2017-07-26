@@ -1,0 +1,8 @@
+body {
+    overflow: scroll;
+    background-image: url("/images/blackwall.jpg");
+    background-size: cover;
+    color: #DDD;
+    font-family: 'Helvetica', 'Lucida Grande', 'Arial', sans-serif;
+    max-font-size: 18px;
+}
